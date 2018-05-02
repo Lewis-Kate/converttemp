@@ -25,7 +25,7 @@ public class Converttemp {
             
          f =  (9.0/5.0) * c + 32;
                  
-         System.out.println("The temperature in Fahrenheit is: " + f18);
+         System.out.println("The temperature in Fahrenheit is: " + f);
     }
     
 }
